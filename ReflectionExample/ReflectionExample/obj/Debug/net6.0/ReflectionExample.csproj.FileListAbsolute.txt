@@ -1,0 +1,15 @@
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\bin\Debug\net6.0\ReflectionExample.exe
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\bin\Debug\net6.0\ReflectionExample.deps.json
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\bin\Debug\net6.0\ReflectionExample.runtimeconfig.json
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\bin\Debug\net6.0\ReflectionExample.dll
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\bin\Debug\net6.0\ReflectionExample.pdb
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.csproj.AssemblyReference.cache
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.dll
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\refint\ReflectionExample.dll
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.pdb
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ReflectionExample.genruntimeconfig.cache
+C:\Users\Batuhan\source\repos\ReflectionExample\ReflectionExample\obj\Debug\net6.0\ref\ReflectionExample.dll
